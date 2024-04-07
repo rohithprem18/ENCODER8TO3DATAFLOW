@@ -63,7 +63,7 @@ Developed by: Rohith Prem S RegisterNumber: 212223040172
 ![waveform exp 5](https://github.com/rohithprem18/ENCODER8TO3DATAFLOW/assets/146315115/054b772f-a67d-4341-9aa1-e199e2073d4d)
 
 
-**RESULTS**
+**RESULT**
 
 Implementing Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables executed succesfully.
 
