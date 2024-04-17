@@ -52,7 +52,7 @@ Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in q
 
 Developed by: Rohith Prem S RegisterNumber: 212223040172
 ```
-![Screenshot 2024-04-07 123136](https://github.com/rohithprem18/ENCODER8TO3DATAFLOW/assets/146315115/96d7dda2-f212-470a-966b-8f6681e3a9ed)
+![prog](https://github.com/rohithprem18/ENCODER8TO3DATAFLOW/assets/146315115/0924c1d1-de8f-423d-be99-e54d53e4f8c4)
 
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
@@ -60,7 +60,7 @@ Developed by: Rohith Prem S RegisterNumber: 212223040172
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![waveform exp 5](https://github.com/rohithprem18/ENCODER8TO3DATAFLOW/assets/146315115/054b772f-a67d-4341-9aa1-e199e2073d4d)
+![timingdig](https://github.com/rohithprem18/ENCODER8TO3DATAFLOW/assets/146315115/1303d45b-4b8f-40ab-8933-105abf9e0459)
 
 
 **RESULT**
